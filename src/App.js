@@ -1,9 +1,9 @@
-function App() {
-  return (
-   <div>
+import AddUser from "./pages/AddUser";
 
-   </div>
-  );
+function App() {
+    return (
+        <AddUser/>
+    );
 }
 
 export default App;
